@@ -1,0 +1,16 @@
+{
+  "name": "JAZZCASH_PAY_WALLET",
+  "version": "1.0.0",
+  "description": "Test code to practice on for JazzCash Mobile Wallet Payment",
+  "main": "test.js",
+  "scripts": {
+    "start": "node src/test.js"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.4.5",
+    "https": "^1.0.0"
+  }
+}
