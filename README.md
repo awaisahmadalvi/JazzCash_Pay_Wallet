@@ -7,25 +7,25 @@ Test code to practice on for JazzCash Mobile Wallet Payment
 Clone the project
 
 ```bash
-  git clone https://github.com/awaisahmadalvi/JazzCash_Pay_Wallet.git
+git clone https://github.com/awaisahmadalvi/JazzCash_Pay_Wallet.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd JazzCash_Pay_Wallet
+cd JazzCash_Pay_Wallet
 ```
 
 Install dependencies
 
 ```bash
-  npm install
+npm install
 ```
 
-Rename .env.template file to .env
+Make a copy of .env.template file as .env
 
 ```bash
-  mv .env.template .env
+cp .env.template .env
 ```
 
 Fill in your credentials in .env file
@@ -33,7 +33,7 @@ Fill in your credentials in .env file
 Run the App
 
 ```bash
-  npm run start
+npm run start
 ```
 
 ## Authors
